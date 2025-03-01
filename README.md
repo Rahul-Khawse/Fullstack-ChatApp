@@ -2,6 +2,10 @@
 A real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack 
 with Socket.io for instant messaging.
 
+### About
+A chat app is a digital platform that allows users to communicate with each other in real-time
+through text and images.
+
 ## Features
 ✅ User authentication (JWT-based)
 
@@ -16,15 +20,15 @@ with Socket.io for instant messaging.
 ✅ Responsive UI
 
 ## Tech Stack
-Frontend: React, Redux, Tailwind CSS
+♦ Frontend: React, Redux, Tailwind CSS
 
-Backend: Node.js, Express.js
+♦ Backend: Node.js, Express.js
 
-Database: MongoDB with Mongoose
+♦ Database: MongoDB with Mongoose
 
-Real-time: Socket.io
+♦ Real-time: Socket.io
 
-Authentication: JWT & bcrypt
+♦ Authentication: JWT & bcrypt
 
 ## Usage
 1. Register/Login to your account.
