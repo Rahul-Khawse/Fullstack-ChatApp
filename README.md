@@ -26,7 +26,7 @@ Real-time: Socket.io
 
 Authentication: JWT & bcrypt
 
-### Usage
+## Usage
 1. Register/Login to your account.
 
 2. Start a chat with an existing user or create a group.
