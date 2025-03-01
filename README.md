@@ -2,7 +2,6 @@
 A real-time chat application built using the MERN (MongoDB, Express, React, Node.js) stack 
 with Socket.io for instant messaging.
 
-### About
 A chat app is a digital platform that allows users to communicate with each other in real-time
 through text and images.
 
